@@ -1,4 +1,4 @@
-## 🧭 Project Summary: Mapping the Bar-bellied Pitta in Southeast Asia
+##  Project Summary: Mapping the Bar-bellied Pitta in Southeast Asia
 
 My goal is to map the **encounter rate** and **relative abundance** of the **Bar-bellied Pitta** across **Thailand, Laos, Cambodia, and Vietnam**, using a combination of **eBird citizen science data** and **MODIS satellite land cover data**. Below is a step-by-step explanation of what I’ve done so far and how it ties into the overall objective.
 
