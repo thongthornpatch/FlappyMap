@@ -126,7 +126,7 @@ To analyze the habitat around each observation, I created **2 km buffers** aroun
 
 ---
 
-###  15. Calculating Landscape Metrics
+###  15. Calculating Landscape Metrics - PROBLEM
 
 For each buffer, I:
 
@@ -143,13 +143,13 @@ These metrics summarize habitat structure and composition around each checklist.
 
 ---
 
-###  16. Parallelizing to Speed Up Processing
+###  16. Parallelizing to Speed Up Processing - PROBLEM
 
 I parallelized the landscape metric extraction using `future.apply`, which helped, but performance was still slow on my machine. Extracting metrics for just 2 rows took several minutes, mostly due to disk I/O and raster cropping.
 
 ---
 
-###  17. Planned Optimization: Subsampling
+###  17. Planned Optimization: Subsampling - PROBLEM
 
 To deal with this, I plan to:
 
