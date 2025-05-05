@@ -6,7 +6,7 @@ My goal is to map the **encounter rate** and **relative abundance** of the **Bar
 
 ##  Step-by-Step Summary (with Context and Terms Explained)
 
-### 🔧 1. Installing Required R Packages
+###  1. Installing Required R Packages
 
 I started by installing all the necessary R packages for spatial and environmental data analysis (`auk`, `terra`, `sf`, `landscapemetrics`, etc.). These tools allow me to clean, visualize, and analyze bird occurrence data and satellite-derived environmental variables.
 
